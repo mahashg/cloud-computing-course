@@ -1,0 +1,9 @@
+
+Storm Assignment
+
+Problem Statement
+---------------------
+Use Apache Storm to create a dummy stream and count in every 10 seconds, which data occuring has highest count.
+
+For More Information Read the Project Reprort
+
