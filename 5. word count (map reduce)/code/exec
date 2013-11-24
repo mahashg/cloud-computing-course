@@ -1,0 +1,1 @@
+/etc/hadoop/bin/hadoop jar wc.jar WC -classpath .:hadoop-core-1.2.1.jar

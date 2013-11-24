@@ -1,0 +1,5 @@
+#configuration file for client
+
+# the port where client is to bind
+clientPort=1900
+serverPort=1800
