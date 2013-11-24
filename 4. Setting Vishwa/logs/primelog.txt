@@ -1,0 +1,45 @@
+Min nodes...1  max nodes...  3
+Press any key to start the execution...
+Uploading the file through FTP
+Uploading the file through FTP
+Uploading the file through FTP
+Uploading the file through FTP
+Uploading the file through FTP
+Uploading the file through FTP
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result2000000
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result9000000
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result10000000
+Uploading the file through FTP
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result8000000
+Uploading the file through FTP
+Uploading the file through FTP
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result7000000
+Uploading the file through FTP
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result6000000
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result5000000
+Uploading the file through FTP
+Uploading the file through FTP
+Uploading the file through FTP
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result4000000
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result1000000
+Downloaded Successfully result file: /home/arun/dinesh/Prime/Vishwa_temp/result3000000
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result1000000
+Compilling results from Sub-Task: 0
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result2000000
+Compilling results from Sub-Task: 1
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result3000000
+Compilling results from Sub-Task: 2
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result4000000
+Compilling results from Sub-Task: 3
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result5000000
+Compilling results from Sub-Task: 4
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result6000000
+Compilling results from Sub-Task: 5
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result7000000
+Compilling results from Sub-Task: 6
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result8000000
+Compilling results from Sub-Task: 7
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result9000000
+Compilling results from Sub-Task: 8
+vishwa file is/home/arun/dinesh/Prime/Vishwa_temp/result10000000
+Compilling results from Sub-Task: 9

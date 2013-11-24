@@ -1,0 +1,7 @@
+set xlabel "No OF Thread"
+set ylabel "Throughput"
+
+set term gif
+set output "ThroughtPut500000"
+plot "500000_t.dat" using 1:2 title 'Lock Free Stack' with lines, \
+"500000_t.dat" using 1:3 title 'Elimination ArrayBackoff Stack' with lines

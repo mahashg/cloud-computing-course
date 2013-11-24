@@ -1,0 +1,14 @@
+Client Server Failure Scenario
+
+
+1. Client Fails before Sending the request
+	Server can be in any of states
+
+2. Client sends the request and dies
+	Server receives the request processes doesn't know whom to send
+
+3. Client sends the request
+	Server receives the request and dies before sending the response
+
+4. Client sends the request receives response and dies
+	Server receives request and processes it and sends the response

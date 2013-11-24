@@ -1,0 +1,107 @@
+doslab@mahesh-HP-Z420-Workstation:~/din/4/vishwaJars$ 
+doslab@mahesh-HP-Z420-Workstation:~/din/4/vishwaJars$ java -jar ZonalServer.jar 
+Enter the zonal server Id
+1
+If this is the First starting zonal server then enter 0 else enter other zonal server IP Address
+0
+1-Adjacency Table...
+1
+Adj Table....
+-----------------------------------------
+-----------------------------------------
+Number of rows....0
+jvishwa.zonalserver.messaging.RemoveFromAdjacencyTable
+jvishwa.zonalserver.messaging.RemoveFromAdjacencyTable
+jvishwa.messaging.JoinMessageToZonSer
+error is here...
+position is 0
+Reply Send
+jvishwa.zonalserver.messaging.AddToAdjacencyTable
+Row is inserted in the list
+jvishwa.zonalserver.messaging.RemoveFromAdjacencyTable
+jvishwa.messaging.ReqToZonalServer
+jvishwa.messaging.JoinMessageToZonSer
+error is here...
+position is 1
+Reply Send
+jvishwa.zonalserver.messaging.AddToAdjacencyTable
+Row is inserted in the list
+1
+Adj Table....
+-----------------------------------------
+10.6.9.50     10.6.9.76     1   
+column.....1
+10.6.9.76     10.6.9.50     1   
+column.....1
+-----------------------------------------
+Number of rows....2
+jvishwa.messaging.JoinMessageToZonSer
+error is here...
+position is 0
+Reply Send
+jvishwa.zonalserver.messaging.AddToAdjacencyTable
+Row is inserted in the list
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.join.messaging.AdjacencyTableReq
+Connection reset
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:185)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2307)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2320)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:2791)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:798)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:298)
+	at jvishwa.socket.VishwaSocket.<init>(VishwaSocket.java:130)
+	at jvishwa.socket.VishwaServer.run(VishwaServer.java:120)
+null
+java.lang.NullPointerException
+	at jvishwa.socket.VishwaSocket.receive(VishwaSocket.java:216)
+	at jvishwa.socket.ServerProtocol.receive(ServerProtocol.java:122)
+	at jvishwa.zonalserver.ZonalServerProtocol.run(ZonalServerProtocol.java:152)
+Error in receving message at zonal server
+jvishwa.zonalserver.messaging.RemoveFromAdjacencyTable
+jvishwa.messaging.ReqToZonalServer
+jvishwa.zonalserver.messaging.RemoveFromAdjacencyTable
+jvishwa.messaging.ReqToZonalServer
+jvishwa.messaging.JoinMessageToZonSer
+error is here...
+position is 2
+Reply Send
+jvishwa.zonalserver.messaging.AddToAdjacencyTable
+Row is inserted in the list
+jvishwa.messaging.JoinMessageToZonSer
+error is here...
+position is 3
+Reply Send
+jvishwa.zonalserver.messaging.AddToAdjacencyTable
+Row is inserted in the list
+1
+Adj Table....
+-----------------------------------------
+10.6.9.50     10.6.9.98     110.6.9.76     110.6.9.20     1   
+column.....3
+10.6.9.98     10.6.9.50     110.6.9.76     110.6.9.20     1   
+column.....3
+10.6.9.76     10.6.9.50     110.6.9.98     110.6.9.20     1   
+column.....3
+10.6.9.20     10.6.9.50     110.6.9.98     110.6.9.76     1   
+column.....3
+-----------------------------------------
+Number of rows....4
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.zonalserver.messaging.GetZonalMultiCastTree
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.zonalserver.messaging.GetZonalMultiCastTree
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.zonalserver.messaging.GetZonalMultiCastTree
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.zonalserver.messaging.GetZonalMultiCastTree
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.join.messaging.AdjacencyTableReq
+jvishwa.zonalserver.messaging.GetZonalMultiCastTree
+jvishwa.join.messaging.AdjacencyTableReq
+
+
